@@ -1,5 +1,5 @@
 # Build your say_hello method here
 
 def say_hello(Faith)
-  print "Hello, #{}!"
+  do print "Hello, #{}!"
 end
